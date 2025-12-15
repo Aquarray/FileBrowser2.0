@@ -288,10 +288,6 @@ If port 5001 or 5173 is already in use, configure alternative ports:
 - Check network connectivity
 - Review browser console for detailed error messages
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -304,7 +300,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📧 Support
 
-For support, email support@example.com or open an issue on GitHub.
+For support, email yuyutshuparashar@gmail.com or open an issue on GitHub.
 
 ## 🎯 Roadmap
 
