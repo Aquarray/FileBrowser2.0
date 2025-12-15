@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:63446",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "/home/comet/Documents/File-Browser-Project/Frontend/Frontend.Server/../frontend.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
